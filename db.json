@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firestName": "João",
+      "lastName": "Andrade",
+      "email": "joao12@hotmail.com",
+      "dob": "2023-07-21T03:00:00.000Z",
+      "gender": "Homem",
+      "education": "Pós Graduado",
+      "company": "Stefanini",
+      "experience": 5,
+      "package": 125,
+      "id": 1
+    },
+    {
+      "firestName": "Pedro",
+      "lastName": "Aquino Silva",
+      "email": "pedro@teste.com",
+      "dob": "2023-07-03T03:00:00.000Z",
+      "gender": "Homem",
+      "education": "Diploma",
+      "company": "Tesla",
+      "experience": 5,
+      "package": 5000,
+      "id": 2
+    },
+    {
+      "firestName": "Pedro",
+      "lastName": "Aquino Nunes",
+      "email": "pedro@teste.com",
+      "dob": "2023-07-03T03:00:00.000Z",
+      "gender": "Homem",
+      "education": "Diploma",
+      "company": "Tesla",
+      "experience": 5,
+      "package": 5000,
+      "id": 3
+    }
+  ]
+}
